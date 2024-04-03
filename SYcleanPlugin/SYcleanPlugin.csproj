@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>..\Bin64\0Harmony.dll</HintPath>
+    </Reference>
     <Reference Include="DirectShowLib, Version=2.1.0.1599, Culture=neutral, PublicKeyToken=null">
       <HintPath>..\Bin64\DirectShowLib.dll</HintPath>
     </Reference>
